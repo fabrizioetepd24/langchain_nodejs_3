@@ -1,4 +1,1 @@
-npm install @langchain/community
-npm install @langchain/ollama
-npm install prompts
-npm install @langchain/google-genai
+Este projeto usa o modelo de LLM chamado 'ollama - gemma2:2b'
